@@ -1,0 +1,9 @@
+*.log
+*.pyc
+local_settings.py
+.idea/*
+recursos/*
+settings.py
+wsgi.py
+magic.py
+mymagic.py
